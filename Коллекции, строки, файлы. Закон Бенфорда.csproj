@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>Коллекции__строки__файлы._Закон_Бенфорда</RootNamespace>
+  </PropertyGroup>
+
+</Project>
